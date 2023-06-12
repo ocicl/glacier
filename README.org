@@ -1,0 +1,10 @@
+* glacier
+
+lightweight mastodon bot wrapper
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/compufox/glacier.git   |
+| commit  | 2175efe  |
+| systems | glacier |
+|---------+-------------------------------------------|
+
